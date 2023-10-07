@@ -1,0 +1,19 @@
+body{
+display: flex;
+}
+
+.left{
+    background: url("brotato.jpg") no-repeat; 
+    width: 50%;
+    height: 100%;
+    background-size: cover;
+}
+
+
+.labels{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: larger;
+    text-align: center;
+    padding-top: 50%;
+     
+}
